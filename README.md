@@ -1,7 +1,7 @@
 # ESP32-Rfid-Project (In Progress)
 
 ```plaintext
-*MC522 RFID Reader*           *ESP 32*
+*RC522 RFID Reader*           *ESP 32*
 Pin1 (3.3)                     3.3 V
 Pin2 (RST)                     GPIO22
 Pin3 (GND)                     GND
